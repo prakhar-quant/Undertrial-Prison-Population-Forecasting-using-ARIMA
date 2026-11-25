@@ -173,4 +173,4 @@ The model captures the broad historical movement of the series and provides a fi
 
 ## Author
 
-**Ananya Aggrawal**
+**Prakhar Gupta**
